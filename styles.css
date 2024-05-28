@@ -40,7 +40,7 @@ br {
     text-decoration-color: lightgray;
     padding: 5px;
     border-radius: 6px;
-    box-shadow: 1px;
+    box-shadow: inset 3px #242424;
 }
 
 .button{
@@ -53,7 +53,7 @@ br {
     text-align: center;
     border-radius: 6px;
     box-shadow: 2px;
-    border-color: black;
+    box-shadow: inset 3px #242424;
 }
 
 .button:hover{
